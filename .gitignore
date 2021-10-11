@@ -1,5 +1,8 @@
 node_modules
 
 #cypress
-*/cypress.json
-*/cypress/*
+#cypress
+**/cypress/integration/tmp/
+**/cypress/test-results
+**/cypress/screenshots
+**/cypress.env.json
